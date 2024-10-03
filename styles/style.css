@@ -20,12 +20,6 @@ h2{
     background-color: rgb(198, 196, 196);
     height: 100px;
 }
-.banner{
-    display: flex;
-    justify-content: space-between;
-    background-color: rgb(243, 250, 167);
-    height: 500px;
-}
 .title2{
     margin: 20px;
 }
